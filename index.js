@@ -20,4 +20,4 @@ function sayHiToGrandma(string) {
     console.log("YES INDEED!")
   }
 }
-sayHiToGrandma("hey")
+sayHiToGrandma("HEY")
